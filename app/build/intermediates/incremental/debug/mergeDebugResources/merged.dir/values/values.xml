@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools" xmlns:ns2="urn:oasis:names:tc:xliff:document:1.2">
+    <attr format="reference" name="nestedScrollViewStyle"/>
+    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
+    <color name="black">#3F3F41</color>
+    <color name="darkGrey">#9B9BA0</color>
+    <color name="grey">#F6FAFE</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="pink">#F5F0FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
+    <dimen name="compat_button_inset_vertical_material">6dp</dimen>
+    <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
+    <dimen name="compat_button_padding_vertical_material">4dp</dimen>
+    <dimen name="compat_control_corner_material">2dp</dimen>
+    <dimen name="compat_notification_large_icon_max_height">320dp</dimen>
+    <dimen name="compat_notification_large_icon_max_width">320dp</dimen>
+    <dimen name="notification_action_icon_size">32dp</dimen>
+    <dimen name="notification_action_text_size">13sp</dimen>
+    <dimen name="notification_big_circle_margin">12dp</dimen>
+    <dimen name="notification_content_margin_start">8dp</dimen>
+    <dimen name="notification_large_icon_height">64dp</dimen>
+    <dimen name="notification_large_icon_width">64dp</dimen>
+    <dimen name="notification_main_column_padding_top">10dp</dimen>
+    <dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen>
+    <dimen name="notification_right_icon_size">16dp</dimen>
+    <dimen name="notification_right_side_padding_top">2dp</dimen>
+    <dimen name="notification_small_icon_background_padding">3dp</dimen>
+    <dimen name="notification_small_icon_size_as_large">24dp</dimen>
+    <dimen name="notification_subtext_size">13sp</dimen>
+    <dimen name="notification_top_pad">10dp</dimen>
+    <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <item name="accessibility_action_clickable_span" type="id"/>
+    <item name="accessibility_custom_action_0" type="id"/>
+    <item name="accessibility_custom_action_1" type="id"/>
+    <item name="accessibility_custom_action_10" type="id"/>
+    <item name="accessibility_custom_action_11" type="id"/>
+    <item name="accessibility_custom_action_12" type="id"/>
+    <item name="accessibility_custom_action_13" type="id"/>
+    <item name="accessibility_custom_action_14" type="id"/>
+    <item name="accessibility_custom_action_15" type="id"/>
+    <item name="accessibility_custom_action_16" type="id"/>
+    <item name="accessibility_custom_action_17" type="id"/>
+    <item name="accessibility_custom_action_18" type="id"/>
+    <item name="accessibility_custom_action_19" type="id"/>
+    <item name="accessibility_custom_action_2" type="id"/>
+    <item name="accessibility_custom_action_20" type="id"/>
+    <item name="accessibility_custom_action_21" type="id"/>
+    <item name="accessibility_custom_action_22" type="id"/>
+    <item name="accessibility_custom_action_23" type="id"/>
+    <item name="accessibility_custom_action_24" type="id"/>
+    <item name="accessibility_custom_action_25" type="id"/>
+    <item name="accessibility_custom_action_26" type="id"/>
+    <item name="accessibility_custom_action_27" type="id"/>
+    <item name="accessibility_custom_action_28" type="id"/>
+    <item name="accessibility_custom_action_29" type="id"/>
+    <item name="accessibility_custom_action_3" type="id"/>
+    <item name="accessibility_custom_action_30" type="id"/>
+    <item name="accessibility_custom_action_31" type="id"/>
+    <item name="accessibility_custom_action_4" type="id"/>
+    <item name="accessibility_custom_action_5" type="id"/>
+    <item name="accessibility_custom_action_6" type="id"/>
+    <item name="accessibility_custom_action_7" type="id"/>
+    <item name="accessibility_custom_action_8" type="id"/>
+    <item name="accessibility_custom_action_9" type="id"/>
+    <item name="androidx_compose_ui_view_composition_context" type="id"/>
+    <item name="compose_view_saveable_id_tag" type="id"/>
+    <item name="consume_window_insets_tag" type="id"/>
+    <item name="hide_in_inspector_tag" type="id"/>
+    <item name="inspection_slot_table_set" type="id"/>
+    <item name="is_pooling_container_tag" type="id"/>
+    <item name="line1" type="id"/>
+    <item name="line3" type="id"/>
+    <item name="pooling_container_listener_holder_tag" type="id"/>
+    <item name="tag_accessibility_actions" type="id"/>
+    <item name="tag_accessibility_clickable_spans" type="id"/>
+    <item name="tag_accessibility_heading" type="id"/>
+    <item name="tag_accessibility_pane_title" type="id"/>
+    <item name="tag_on_apply_window_listener" type="id"/>
+    <item name="tag_on_receive_content_listener" type="id"/>
+    <item name="tag_on_receive_content_mime_types" type="id"/>
+    <item name="tag_screen_reader_focusable" type="id"/>
+    <item name="tag_state_description" type="id"/>
+    <item name="tag_transition_group" type="id"/>
+    <item name="tag_unhandled_key_event_manager" type="id"/>
+    <item name="tag_unhandled_key_listeners" type="id"/>
+    <item name="tag_window_insets_animation_callback" type="id"/>
+    <item name="text" type="id"/>
+    <item name="text2" type="id"/>
+    <item name="title" type="id"/>
+    <id name="view_tree_lifecycle_owner"/>
+    <id name="view_tree_on_back_pressed_dispatcher_owner"/>
+    <id name="view_tree_saved_state_registry_owner"/>
+    <id name="view_tree_view_model_store_owner"/>
+    <item name="wrapped_composition_tag" type="id"/>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="ali">Muhammad Ali</string>
+    <string name="ali_quote">\"I hated every minute of training, but I said, \'Don\'t quit. Suffer now and live the rest of your life as a champion.\'\"</string>
+    <string name="androidx_startup" translatable="false">androidx.startup</string>
+    <string name="app_name">Inspiring Quotes</string>
+    <string name="aristotle">Aristotle</string>
+    <string name="aristotle_quote">\"Quality is not an act, it is a habit.\"</string>
+    <string name="armstrong">Neil Armstrong</string>
+    <string name="armstrong_quote">\"I believe every human has a finite number of heartbeats. I don\'t intend to waste any of mine.\"</string>
+    <string name="asimov">Isaac Asimov</string>
+    <string name="asimov_quote">\"Violence is the last refuge of the incompetent.\"</string>
+    <string name="bruyere">Jean de la Bruyere</string>
+    <string name="bruyere_quote">\"Out of difficulties grow miracles.\"</string>
+    <string name="buddha">Buddha</string>
+    <string name="buddha_quote">\"Thousands of candles can be lighted from a single candle. Happiness never decreases by being shared.\"</string>
+    <string name="caesar">Julius Caesar</string>
+    <string name="caesar_quote">\"Experience is the teacher of all things.\"</string>
+    <string name="carnegie">Dale Carnegie</string>
+    <string name="carnegie_quote">\"Most of us have far more courage than we ever dreamed we possessed.\"</string>
+    <string name="close_drawer">"Close navigation menu"</string>
+    <string name="close_sheet">"Close sheet"</string>
+    <string name="confucius">Confucius</string>
+    <string name="confucius_quote">\"It does not matter how slowly you go as long as you do not stop.\"</string>
+    <string name="default_error_message">"Invalid input"</string>
+    <string name="default_popup_window_title" ns1:ignore="ExtraTranslation">"Pop-Up Window"</string>
+    <string name="dewey">John Dewey</string>
+    <string name="dewey_quote">\"Education is not preparation for life; education is life itself.\"</string>
+    <string name="dropdown_menu">"Dropdown menu"</string>
+    <string name="epictetus">Epictetus</string>
+    <string name="epictetus_quote">\"It\'s not what happens to you, but how you react to it that matters.\"</string>
+    <string name="franklin">Benjamin Franklin</string>
+    <string name="franklin_quote">\"An investment in knowledge pays the best interest.\"</string>
+    <string name="gandhi">Mahatma Gandhi</string>
+    <string name="gandhi_quote">\"In a gentle way, you can shake the world.\"</string>
+    <string name="gasset">Jose Ortega y Gasset</string>
+    <string name="gasset_quote">\"Tell me to what you pay attention and I will tell you who you are.\"</string>
+    <string name="heraclitus">Heraclitus</string>
+    <string name="heraclitus_quote">\"No man ever steps in the same river twice, for it\'s not the same river and he\'s not the same man.\"</string>
+    <string name="in_progress">In progress</string>
+    <string name="indeterminate">Partially checked</string>
+    <string name="james">William James</string>
+    <string name="james_quote">\"Believe that life is worth living and your belief will help create the fact.\"</string>
+    <string name="jung">Carl Jung</string>
+    <string name="jung_quote">\"Knowing your own darkness is the best method for dealing with the darknesses of other people.\"</string>
+    <string name="kant">Immanuel Kant</string>
+    <string name="kant_quote">\"Science is organized knowledge. Wisdom is organized life.\"</string>
+    <string name="lama">Dalai Lama</string>
+    <string name="lama_quote">\"The best way to resolve any problem in the human world is for all sides to sit down and talk.\"</string>
+    <string name="mandela">Nelson Mandela</string>
+    <string name="mandela_quote">\"It always seems impossible until it\'s done.\"</string>
+    <string name="maxwell">John C. Maxwell</string>
+    <string name="maxwell_quote">\"People may hear your words, but they feel your attitude.\"</string>
+    <string name="navigation_menu">"Navigation menu"</string>
+    <string name="nietzsche">Friedrich Nietzsche</string>
+    <string name="nietzsche_quote">\"To live is to suffer, to survive is to find some meaning in the suffering.\"</string>
+    <string name="not_selected">Not selected</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="pythagoras">Pythagoras</string>
+    <string name="pythagoras_quote">\"Silence is better than unmeaning words.\"</string>
+    <string name="range_end">"Range end"</string>
+    <string name="range_start">"Range start"</string>
+    <string name="selected">Selected</string>
+    <string name="socrates">Socrates</string>
+    <string name="socrates_quote">\"The only true wisdom is in knowing you know nothing.\"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">Tab</string>
+    <string name="template_percent"><ns2:g id="percentage">%1$d</ns2:g> percent.</string>
+    <string name="thales">Thales</string>
+    <string name="thales_quote">\"The most difficult thing in life is to know yourself.\"</string>
+    <string name="tolle">Eckhart Tolle</string>
+    <string name="tolle_quote">\"Life is an adventure, it\'s not a package tour.\"</string>
+    <string name="tzu">Lao Tzu</string>
+    <string name="tzu_quote">\"To the mind that is still, the whole universe surrenders.\"</string>
+    <string name="unknown">Unknown</string>
+    <string name="unknown_quote">\"Turn your face to the sun and the shadows fall behind you.\"</string>
+    <string name="voltaire">Voltaire</string>
+    <string name="voltaire_quote">\"The best is the enemy of the good.\"</string>
+    <string name="watts">Alan Watts</string>
+    <string name="watts_quote">\"The only way to make sense out of change is to plunge into it, move with it, and join the dance.\"</string>
+    <style name="DialogWindowTheme">
+        <item name="android:windowClipToOutline">false</item>
+    </style>
+    <style name="FloatingDialogTheme">
+        <item name="android:windowIsFloating">false</item>
+    </style>
+    <style name="FloatingDialogWindowTheme">
+        <item name="android:windowClipToOutline">false</item>
+        <item name="android:dialogTheme">@style/FloatingDialogTheme</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/>
+    <style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="Theme.InspiringQuotes" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/pink</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Widget.Compat.NotificationActionContainer" parent=""/>
+    <style name="Widget.Compat.NotificationActionText" parent=""/>
+    <declare-styleable name="Capability">
+        
+        <attr format="reference" name="queryPatterns"/>
+        
+        <attr format="boolean" name="shortcutMatchRequired"/>
+    </declare-styleable>
+    <declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+        
+        <attr format="float" name="lStar"/>
+        <attr name="android:lStar"/>
+    </declare-styleable>
+    <declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            <!-- The blocking font fetch works as follows.
+              First, check the local cache, then if the requested font is not cached, request the
+              font from the provider and wait until it is finished.  You can change the length of
+              the timeout by modifying fontProviderFetchTimeout.  If the timeout happens, the
+              default typeface will be used instead. -->
+            <enum name="blocking" value="0"/>
+            <!-- The async font fetch works as follows.
+              First, check the local cache, then if the requeted font is not cached, trigger a
+              request the font and continue with layout inflation. Once the font fetch succeeds, the
+              target text view will be refreshed with the downloaded font data. The
+              fontProviderFetchTimeout will be ignored if async loading is specified. -->
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            <!-- A special value for the timeout. In this case, the blocking font fetching will not
+              timeout and wait until a reply is received from the font provider. -->
+            <enum name="forever" value="-1"/>
+        </attr>
+        
+        <attr format="string" name="fontProviderSystemFontFamily"/>
+    </declare-styleable>
+    <declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable>
+    <declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable>
+    <declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable>
+</resources>

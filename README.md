@@ -39,6 +39,8 @@ Users should be able to:
 In this challenge I applied the knowledge learned in Unit 3 of the training. Important concepts like
 scrollable list with LazyColumn and accessing it from a data class. Also I build an expandable Card element
 and, at least, I've styled the app and building using Material Theme with Jetpack Compose.
+One interesting tool worth mentioning is the Pallete API which allows me to color the card according to
+the main color of the card image.
 
 ### Continued development
 

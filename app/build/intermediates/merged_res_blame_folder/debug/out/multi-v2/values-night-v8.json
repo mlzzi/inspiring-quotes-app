@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.inspiringquotes.app-mergeDebugResources-38:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\muril\\AndroidStudioProjects\\KOTLIN_COMPOSE_LESSONS\\##CHALLENGES\\InspiringQuotes\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "218"
+                    }
+                }
+            ]
+        }
+    ]
+}
